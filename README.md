@@ -1,17 +1,15 @@
-<h1 align="center">Hi there, I'm Kallen 👋</h1>
+<h1 align="center">Hi there, I'm Karen 👋</h1>
 <h3 align="center">Full-Stack Developer | UI/UX Designer | MERN & PERN Specialist 🚀</h3>
 
 <p align="center">
-  I build scalable backend systems and craft clean, user-focused interfaces that solve real-world problems.
+  I build high-performance backend systems and develop clean, engaging interfaces that make technology more useful and accessible.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a full-stack software developer with a strong focus on **modern web applications**, combining powerful backend systems with intuitive UI/UX design.
-
-Currently working on impactful solutions while expanding into intelligent systems.
+I'm a full-stack software developer focused on developing modern and scalable web applications. I write powerful and easy-to-use solutions, thanks to the efficient backend development and thoughtful UI/UX design. I'm on the front lines working on projects that have a significant impact and am exploring the world of intelligent systems and automation.
 
 ### 💡 Core Strengths:
 - ⚡ Full-Stack Development (MERN & PERN)
@@ -40,11 +38,11 @@ Currently working on impactful solutions while expanding into intelligent system
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kallendev&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nduta12&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kallendev&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nduta12&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kallendev&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nduta12&theme=tokyonight"/>
 
 </div>
 
@@ -65,7 +63,7 @@ A platform connecting local artisans (**fundis**) with nearby clients.
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:developerkallen@gmail.com">
+  <a href="mailto:ndutawanjiru70@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <!-- Add LinkedIn here -->
@@ -74,4 +72,4 @@ A platform connecting local artisans (**fundis**) with nearby clients.
 
 ---
 
-<p align="center">✨ Building solutions that matter ✨</p>
+<p align="center">✨ Turning ideas into meaningful applications. ✨</p>
